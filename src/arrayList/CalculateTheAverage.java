@@ -19,6 +19,7 @@ public class CalculateTheAverage {
         System.out.println("Average value of the array elements is : " + average);
     }
 
+
 }
 
 
